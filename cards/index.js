@@ -1188,7 +1188,7 @@ function Ft(e) {
 }
 function Vt(e) {
   const t = [
-    ["", "https://cdn.jsdelivr.net/gh/vigilux418/downloads@main/cards/back.png"],
+    ["", "https://cdn.jsdelivr.net/gh/vigilux418/downloads@main/cards/card.png"],
     // ["#", "/assets/cards/back.png"]
     // ["/cs/pl/riscv/", "/assets/cards/riscv.png"],
     // ["/cs/pl/rust/basic/", "/assets/cards/rust.png"],
